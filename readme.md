@@ -13,5 +13,7 @@
    `localhost:8000/api/getData`
 
 1. ## this is beginning external api fecthing request.
+   ![starting](https://user-images.githubusercontent.com/91711234/195518604-adfd64b6-ec66-4e52-8996-696ce15cb917.png)
 
 1. ## This output is after external api fetch 20 request/minute.
+   ![reached_destination](https://user-images.githubusercontent.com/91711234/195518540-f8dc015a-9888-48ae-ab7e-9a166d724b87.png)
